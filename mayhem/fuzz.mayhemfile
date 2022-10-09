@@ -1,0 +1,4 @@
+project: gopass
+target: fuzz
+cmds:
+- cmd: /out/fuzz
